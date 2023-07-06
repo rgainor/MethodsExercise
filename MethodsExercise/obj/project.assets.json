@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ryan.gainor/Desktop/repos temp/MethodsExercise/MethodsExercise/MethodsExercise.csproj",
+      "projectUniqueName": "/Users/ryan.gainor/Desktop/repos/MethodExercise/MethodsExercise/MethodsExercise/MethodsExercise.csproj",
       "projectName": "MethodsExercise",
-      "projectPath": "/Users/ryan.gainor/Desktop/repos temp/MethodsExercise/MethodsExercise/MethodsExercise.csproj",
+      "projectPath": "/Users/ryan.gainor/Desktop/repos/MethodExercise/MethodsExercise/MethodsExercise/MethodsExercise.csproj",
       "packagesPath": "/Users/ryan.gainor/.nuget/packages/",
-      "outputPath": "/Users/ryan.gainor/Desktop/repos temp/MethodsExercise/MethodsExercise/obj/",
+      "outputPath": "/Users/ryan.gainor/Desktop/repos/MethodExercise/MethodsExercise/MethodsExercise/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/ryan.gainor/.nuget/NuGet/NuGet.Config"
